@@ -53,14 +53,14 @@ Play around with the `-ngl` and `-c` (context size) for individual cases. Same w
 
 ## Results:
 At Rest:
-![Screenshot at rest](Pasted image 20251102134202.png)
+![Screenshot at rest](/Pasted%20image%2020251102124857.png)
 
 During Inferencing
-![[Pasted image 20251102134412.png]]
+![](/Pasted%20image%2020251102134412.png)
 
 Post Inference
-![[Pasted image 20251102134431.png]]
+![](/Pasted%20image%2020251102134431.png)
 
 After Model offload
-![[Pasted image 20251102134527.png]]
+![](/Pasted%20image%2020251102134527.png)
 
