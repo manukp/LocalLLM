@@ -53,7 +53,7 @@ Play around with the `-ngl` and `-c` (context size) for individual cases. Same w
 
 ## Results:
 At Rest:
-![[Pasted image 20251102134202.png]]
+![Screenshot at rest](Pasted image 20251102134202.png)
 
 During Inferencing
 ![[Pasted image 20251102134412.png]]
