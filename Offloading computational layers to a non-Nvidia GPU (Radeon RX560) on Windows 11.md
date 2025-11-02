@@ -28,14 +28,14 @@ cmake --build build --config Release
 ```
 
 Build files created:
-![[Pasted image 20251102124857.png]]
+![](/Pasted%20image%2020251102124857.png)
 
 After a fair bit of compiler warnings, you should be able to see successful compilation message as follows:
-![[Pasted image 20251102125534.png]]
+![](/Pasted%20image%2020251102125534.png)
 
 ### Verifying the build:
 Execute `vulkaninfo | grep -i RX` to see my Radeon RX 580 listed:
-![[Pasted image 20251102125411.png]]
+![](/Pasted%20image%2020251102125411.png)
 
 ## Lets download some models
 ### Starting with some smaller ones:
