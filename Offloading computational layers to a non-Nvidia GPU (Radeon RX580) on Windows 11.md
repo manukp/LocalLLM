@@ -9,6 +9,7 @@ Build Llama.cpp with Vulkan support.
 Instructions to be followed from Llama.cpp [GitHub](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md#vulkan)
 
 ## Steps:
+- ⭐ Ensure Visual Studio with C++ Build Tools are installed, and path to cl.exe and nmake.exe are added to System Environment variables.
 - ⭐ Install [Git-SCM](https://git-scm.com/install/windows)
 - ⭐ Install [CMake](https://github.com/Kitware/CMake/releases/download/v4.2.0-rc2/cmake-4.2.0-rc2-windows-x86_64.msi)
 - ⭐ Obviously, have VS Code, Python 3.9+.
